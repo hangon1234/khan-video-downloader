@@ -11,7 +11,7 @@ I am a student and code was written in last few hours, so the code is incomplete
 
 Since I have no time to revise the code, if someone wants to download Khan Academy's videos into mp4 and knows Python, please improve my code.
 
-Of course, there are some apps that can easily download videos. However, someone might need pure .mp4 files in some cases like me. I can use smartphone/PC only for 3 hours per day. Except for that time, I can only use PMP(Portable Media Player, Windows CE device) to play Khan Academy's videos. Hope that someone find it useful.
+Of course, there are some iOS/Android apps that can download videos easily. However, someone might need pure .mp4 files for some cases like me. I can use smartphone/PC only for 3 hours per day. Except for that time, I can only use PMP(Portable Media Player, Windows CE device) to play Khan Academy's videos. Hope that someone find it useful.
 
 # Usage
 ***

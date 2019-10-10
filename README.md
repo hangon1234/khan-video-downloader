@@ -22,7 +22,7 @@ pip install urllib3
 ```
 3. Download 'khanLectureDownloader.py'
 4. Run the script.
-'''
+```
 python khanLectureDownloader.py
 
 Welcome to Khan Academy Lecture Downloader!
@@ -69,5 +69,5 @@ Succeessfully downloaded
 
 Seems your program is successfully finished!
 Press Enter to terminate this program
-'''
+```
 5. Open the folder where you saved khanLectureDownloader.py and you should be able to find videos. Enjoy!

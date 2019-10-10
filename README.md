@@ -67,7 +67,13 @@ Downloaded as Limits intro/(1) Limits intro.mp4
 URL is  https://cdn.kastatic.org/ka-youtube-converted/riXcZT2ICjA.mp4/riXcZT2ICjA.mp4
 Succeessfully downloaded
 
+There are no download_urls for this video.
+You should check saved 'JSON' file and try to get YouTube link of the video
+The file saved at Differential Calculus/(1) Limits and continuity/(15) Limits at infinity/(1) Introduction to limits at infinity.json
+Press Enter to continue...
+
 Seems your program is successfully finished!
 Press Enter to terminate this program
 ```
-5. Open the folder where you saved khanLectureDownloader.py and you should be able to find videos. Enjoy!
+5. Open the folder where you saved khanLectureDownloader.py and you should be able to find videos.respn
+6. If the API response doesn't have proper download_urls, as you noticed the script will pause and let you know where the responed JSON file. You have to look into that file and find another way to download the video. (There will be YouTube ID, Khan Academy URL, etc)

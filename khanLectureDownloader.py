@@ -1,5 +1,5 @@
 # Author : Kim Hangon (Daniel, 金漢坤)
-# Khan academy videos downloader
+# Khan academy video downloader
 # No copyright, freely use and modify code
 
 import urllib3

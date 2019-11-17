@@ -7,7 +7,7 @@ For my personal reason, I need .mp4 files for some topic in Khan Academy.
 In Khan Academy's own FAQ, they recommended us to use YouTube downloader to download videos but this is time-consuming and error prone.
 This Python code will use Khan Academy's API v1 and recursively find topic and their related videos. You don't need to worry about directory's naming, sequence of video, topics and its sub topics, videos related in each topic.
 
-I am a student and code was written in last few hours, so the code is incomplete and errors are not properly handled. Tomorrow is the end of my annual leave so I have to go back to military service and will be not here for most of the time. (I'm korean and still needs to be there for 6 months 😊)
+I am a student and code was written in last few hours, so the code is incomplete and errors are not properly handled. It seems variable and function name is not properly written and confusing.  Tomorrow is the end of my annual leave so I have to go back to military service and will be not here for most of the time.
 
 Since I have no time to revise the code, if someone wants to download Khan Academy's videos into mp4 and knows Python, please improve my code.
 
@@ -76,6 +76,6 @@ Seems your program is successfully finished!
 Press Enter to terminate this program
 ```
 5. Open the folder where you saved khanLectureDownloader.py and you should be able to find videos.
-6. If the API response doesn't have proper download_urls, as you noticed the script will pause and let you know where the responed JSON file is. You have to look into that file and find another way to download the video. (There will be YouTube ID, Khan Academy URL, etc)
+6. If the API response doesn't have or empty download_urls, as above the script will pause and let you know where the responed JSON file is. You can look into that file and find other way to download the video. (ex. YouTube Downloader) The file will have API's JSON response and you can check information on it. (ex. YouTube ID, Khan Academy URL)
 
 Enjoy!

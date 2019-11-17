@@ -7,7 +7,7 @@ For my personal reason, I need .mp4 files for some topic in Khan Academy.
 In Khan Academy's own FAQ, they recommended us to use YouTube downloader to download videos but this is time-consuming and error prone.
 This Python code will use Khan Academy's API v1 and recursively find topic and their related videos. You don't need to worry about directory's naming, sequence of video, topics and its sub topics, videos related in each topic.
 
-I am a student and code was written in last few hours, so the code is incomplete and errors are not properly handled. It seems variable and function name is not properly written and confusing.  Tomorrow is the end of my annual leave so I have to go back to military service and will be not here for most of the time.
+I am a student and code was written in last few hours, so the code is incomplete and errors are not properly handled. It seems variable and function name are not properly written and confusing.  Tomorrow is the end of my annual leave so I have to go back to military service and will be not here for most of the time.
 
 Since I have no time to revise the code, if someone wants to download Khan Academy's videos into mp4 and knows Python, please improve my code.
 
